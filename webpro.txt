@@ -6,3 +6,4 @@ Web Site Pro Manipulation
 - membuat web porto ini sebagai web yang fungsional seperti 
   - portofolio profesional
   - web yang interaktif seperti : penyimpanan video, penyimpanan file online, dengan tampilan user friedly, atau forum diskusi
+-kedepannya kita akan fokus untuk membuat web porto kita menjadi web porto yang bisa di gunakan di setiap getget dengan grid dan flex box
