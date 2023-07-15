@@ -1,0 +1,8 @@
+Web Site Pro Manipulation
+- konsisten untuk melakukan peningkatan skill programing
+- dari skill html css grid  js react bootstrap git/github react API dll..
+- memanipulasi web porto pro kita menjadi web yang seutuhnya dan berguna secara keseluruhan
+- memanipulasi web porto pro ini sampai ke tahap full stuck
+- membuat web porto ini sebagai web yang fungsional seperti 
+  - portofolio profesional
+  - web yang interaktif seperti : penyimpanan video, penyimpanan file online, dengan tampilan user friedly, atau forum diskusi
