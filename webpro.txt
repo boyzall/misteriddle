@@ -16,3 +16,12 @@ Web Site Pro Manipulation
   ^ membuat webpro dengan basic dengan html dan css dasar | anatomi, penempatan, font styling, text styling, background, selector, pseudo class, inheritance, specifity
   ^ membuat webpro dengan CSS layouting | display, dimensi & overflow, (box model: padding margin, border & box-sizing), (box model: css reset), float, clear, (position : static, relative, absolute, fixed , z-index, 
   ^ membuat webpro dengan basic dengan CSS3 | border-radius, opacity, RGBa & HSLa, Box-shadow, text-shadow, linear & radial gradient, font-face, web font generator, vendor prefix, filter, transform, transition, animation
+
+-ini ide dari fitur orang 1, setelah webpro di rancang dari 3 hal diatas, menurut orang pertama
+  ^ kita akan membuat webpro yang di rancang dengan flex-box, 
+  ^ baru masuk ke CSS grid, 
+  ^ baru kita akan masuk ke javasctipe dari rancangan web bro yang kita buat
+  ^ lalu kita akan membuat webpro dengan bootstrap jika memungkinkan untuk mendalami bootstrap
+  ^ lalu kita akan masuk ke react, API, dll.
+
+  
