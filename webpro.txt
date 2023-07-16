@@ -23,5 +23,6 @@ Web Site Pro Manipulation
   ^ baru kita akan masuk ke javasctipe dari rancangan web bro yang kita buat
   ^ lalu kita akan membuat webpro dengan bootstrap jika memungkinkan untuk mendalami bootstrap
   ^ lalu kita akan masuk ke react, API, dll.
+fitur ini akan kita gabungkan dengan branch 2 orang yaitu fitur orang ke 2
 
   
