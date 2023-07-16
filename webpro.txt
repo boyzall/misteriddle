@@ -9,6 +9,7 @@ Web Site Pro Manipulation
 - kedepannya kita akan fokus untuk membuat web porto kita menjadi web porto yang bisa di gunakan di setiap getget dengan grid dan flex box
 
 - mengenal fundamental data structure
+
 ==== merge conflic ====
 
 - ini case untuk merge conflic, agar lebih logis akan kita buat alur untuk yang sudah ada sampai yang akan di kerjakan kedepannya
@@ -17,11 +18,16 @@ Web Site Pro Manipulation
   ^ membuat webpro dengan CSS layouting | display, dimensi & overflow, (box model: padding margin, border & box-sizing), (box model: css reset), float, clear, (position : static, relative, absolute, fixed , z-index, 
   ^ membuat webpro dengan basic dengan CSS3 | border-radius, opacity, RGBa & HSLa, Box-shadow, text-shadow, linear & radial gradient, font-face, web font generator, vendor prefix, filter, transform, transition, animation
 
-
--ini ide dari fitur orang 1, setelah webpro di rancang dari 3 hal diatas, menurut orang pertama
+-ini rencana hasil dari fitur orang 1 dan 2, setelah webpro di rancang dari 3 hal diatas, kita akan melakukan hal di bawh ini
   ^ kita akan membuat webpro yang di rancang dengan flex-box, 
   ^ baru masuk ke CSS grid, 
-  ^ baru kita akan masuk ke javasctipe dari rancangan web bro yang kita buat
-  ^ lalu kita akan membuat webpro dengan bootstrap jika memungkinkan untuk mendalami bootstrap
-  ^ lalu kita akan masuk ke react, API, dll.
+  ^ lalu kita akan mendalami setiap quicttips #1-7 
+  ^ baru kita akan masuk ke javasctipe dari rancangan webpro yang kita buat dengan framework
+    - angular
+    - react
+  ^ baru masuk ke dalam php framework 
+    - laravel
+  ^ lalu kita akan membuat webpro dengan bootstrap jika memungkinkan untuk mendalami bootstrap jika memungkinkan
+  ^ baru masuk ke API, dll.
 
+dan ini hasil ide dari orang pertama dan kedua yang di gabungkan sehingga menjadi rencana yang lebih baik yang matang
